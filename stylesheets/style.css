@@ -347,9 +347,11 @@ font-size:11px;
     height: 100%;
 }
 .pictures{
-    width:90%;
-    height:100%;
-    left:15%;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .description{
     width:70%;
