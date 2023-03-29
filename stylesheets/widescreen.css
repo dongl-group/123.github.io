@@ -12,6 +12,9 @@
 .pictures{
     width: 60%;
     height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .description p{
     font-size:18rpx;
